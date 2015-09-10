@@ -3,3 +3,8 @@ Not much.
 Thats cool.
 
 Nah really its pretty sweet!
+
+Remember git log
+git status
+git add file.txt
+git commit -m "title"
